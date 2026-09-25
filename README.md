@@ -30,20 +30,20 @@ Mod_Ana_Pro_Dat_ST/
 - Herramientas de visualización de datos
 
 ## Contenido
-# Semana 1
+### Semana 1
 Introducción a la analítica de datos y conceptos fundamentales.
 
-# Semana 2
+### Semana 2
 Procesamiento y preparación de conjuntos de datos.
 
-# Semana 3
+### Semana 3
 Análisis exploratorio de datos y generación de métricas.
 
-# Semana 4
+### Semana 4
 Interpretación de resultados y presentación de hallazgos.
 
-## Autor
-## Alvaro Hernan Alarcon Lopez
+### Autor
+### Alvaro Hernan Alarcon Lopez
 
-## Licencia
+### Licencia
 Este repositorio tiene fines académicos y educativos.
